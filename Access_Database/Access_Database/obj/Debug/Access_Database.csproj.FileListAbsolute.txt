@@ -1,0 +1,10 @@
+C:\NIKITA\Access_Database\Access_Database\bin\Debug\Access_Database.exe.config
+C:\NIKITA\Access_Database\Access_Database\bin\Debug\Access_Database.exe
+C:\NIKITA\Access_Database\Access_Database\bin\Debug\Access_Database.pdb
+C:\NIKITA\Access_Database\Access_Database\obj\Debug\Access_Database.csproj.AssemblyReference.cache
+C:\NIKITA\Access_Database\Access_Database\obj\Debug\Access_Database.Form1.resources
+C:\NIKITA\Access_Database\Access_Database\obj\Debug\Access_Database.Properties.Resources.resources
+C:\NIKITA\Access_Database\Access_Database\obj\Debug\Access_Database.csproj.GenerateResource.cache
+C:\NIKITA\Access_Database\Access_Database\obj\Debug\Access_Database.csproj.CoreCompileInputs.cache
+C:\NIKITA\Access_Database\Access_Database\obj\Debug\Access_Database.exe
+C:\NIKITA\Access_Database\Access_Database\obj\Debug\Access_Database.pdb
